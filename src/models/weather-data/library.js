@@ -1,0 +1,4 @@
+const FORM_ACTION_CREATE = 'create';
+const FORM_ACTION_UPDATE = 'update';
+
+export { FORM_ACTION_CREATE, FORM_ACTION_UPDATE };

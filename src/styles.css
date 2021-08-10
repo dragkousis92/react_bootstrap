@@ -1,0 +1,19 @@
+.commentWrapper .btn{
+    font-size: 7;
+    height: 18px;
+    padding: 5px;
+    line-height: 8px;
+}
+
+.badge{
+    display: block;
+    
+}
+
+.submitButton{
+    margin-top: 50px;
+}
+
+.mainContainer{
+    margin-top: 50px;
+}
