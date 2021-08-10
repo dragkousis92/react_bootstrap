@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import withModelProps from 'utilities/withModelProps';
 import { useWeatherData, loadedWeatherData } from 'models/weather-data';
 
+import Button from '@material-ui/core/Button';
+
 import './weatherInfo.css';
 
 const initialInputState = { weather: '' };
